@@ -4,3 +4,6 @@ langchain-text-splitters==1.1.2
 langchain-huggingface==1.2.2
 faiss-cpu==1.14.3
 langchain-ollama==1.1.0
+
+
+
