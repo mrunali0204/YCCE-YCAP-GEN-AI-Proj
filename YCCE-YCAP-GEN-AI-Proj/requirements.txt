@@ -1,5 +1,6 @@
-streamlit
-langchain-community
-langchain-text-splitters
-langchain-huggingface
-faiss-cpu
+streamlit==1.59.2
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+langchain-huggingface==1.2.2
+faiss-cpu==1.14.3
+langchain-ollama==1.1.0
